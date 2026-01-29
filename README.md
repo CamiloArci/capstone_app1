@@ -1,3 +1,12 @@
+Link de la página: https://camiloarci.github.io/capstone_app1/
+
+# Integrantes del equipo:
+Camilo Arciniegas
+Andrés Sánchez
+Juan José Forero
+Juan José Rodriguez
+Felipe Abella
+
 # FourSight Group Builder
 
 Aplicación web para la **creación automática de grupos de trabajo equilibrados** a partir de los perfiles cognitivos **FourSight** (Clarificador, Ideador, Desarrollador e Implementador).
